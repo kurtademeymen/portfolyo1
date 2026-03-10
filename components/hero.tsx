@@ -59,7 +59,7 @@ export function Hero() {
           </p>
         </div>
         <p className="mx-auto mt-8 max-w-xl text-muted-foreground">
-          6 yıllık deneyimle farklı disiplinlerde projeler geliştiriyorum.
+          6 yıllık deneyimle farklı alanlarda projeler geliştiriyorum.
           Frontend&apos;den robotik&apos;e, video editing&apos;den müzik prodüksiyonuna kadar
           geniş bir yelpazede çalışıyorum.
         </p>
