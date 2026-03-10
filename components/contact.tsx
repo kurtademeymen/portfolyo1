@@ -1,8 +1,8 @@
 import { Linkedin, Mail } from "lucide-react"
 
 const socialLinks = [
-  { name: "LinkedIn", icon: Linkedin, href: "#" },
-  { name: "Email", icon: Mail, href: "mailto:ornek@email.com" },
+  { name: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/ademeymenkurt/" },
+  { name: "Email", icon: Mail, href: "mailto:kurtademeymen@email.com" },
 ]
 
 export function Contact() {
