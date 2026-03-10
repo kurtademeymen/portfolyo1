@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Portfolyo',
-  description: 'Kisisel portfolyo sitesi - Frontend, Unreal Engine, After Effects, FL Studio, Robotik',
-  generator: 'v0.app',
+  title: 'Adem Eymen Kurt',
+  description: 'tsx',
+  generator: 'Adem Eymen Kurt',
   icons: {
     icon: [
       {
