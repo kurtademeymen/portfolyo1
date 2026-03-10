@@ -1,9 +1,7 @@
-import { Github, Linkedin, Mail, Twitter } from "lucide-react"
+import { Linkedin, Mail } from "lucide-react"
 
 const socialLinks = [
-  { name: "GitHub", icon: Github, href: "#" },
   { name: "LinkedIn", icon: Linkedin, href: "#" },
-  { name: "Twitter", icon: Twitter, href: "#" },
   { name: "Email", icon: Mail, href: "mailto:ornek@email.com" },
 ]
 
@@ -15,7 +13,7 @@ export function Contact() {
           İletişime Geç
         </h2>
         <p className="mb-12 text-muted-foreground">
-          Projeleriniz veya işbirliği fırsatları için benimle iletişime geçebilirsiniz
+          *
         </p>
 
         <div className="flex justify-center gap-6">
