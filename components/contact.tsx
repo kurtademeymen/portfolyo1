@@ -31,7 +31,7 @@ export function Contact() {
 
         <div className="mt-16 border-t border-border pt-8">
           <p className="text-sm text-muted-foreground">
-            Tasarım ve geliştirme tarafımdan yapılmıştır
+            © 2026 aeymenkurt.com.tr
           </p>
         </div>
       </div>
